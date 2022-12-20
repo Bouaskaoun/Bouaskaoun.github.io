@@ -281,18 +281,18 @@ img {
   align-items: center;
 }
 
-.home__social{
+.home__links{
   display: grid;
   grid-template-columns: max-content;
   row-gap: 1rem;
 }
 
-.home__social-icon{
+.home__links-icon{
   font-size: 1.25rem;
   color: var(--first-color);
 }
 
-.home__social-icon:hover{
+.home__links-icon:hover{
   color: var(--first-color-alt);
 }
 
@@ -1360,7 +1360,7 @@ img {
     width: 320px;
   }
 
-  .home__social{
+  .home__links{
     transform: translateX(-6rem);
   }
 
