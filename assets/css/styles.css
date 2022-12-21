@@ -1296,6 +1296,8 @@ img {
 
   .portfolio__img{
     width: 320px;
+    height: 200px;
+    object-fit: cover;
   }
 
   .portfolio__content{
