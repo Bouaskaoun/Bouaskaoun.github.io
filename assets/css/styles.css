@@ -910,6 +910,15 @@ img {
   row-gap: 3rem;
 }
 
+.contact__description{
+  text-align: center;
+}
+
+.contact__description_1{
+  text-align: center;
+  margin-bottom: var(--mb-2-5);
+}
+
 .contact__information{
   display: flex;
   margin-bottom: var(--mb-2);
@@ -1172,9 +1181,11 @@ img {
     padding: 6rem 0 2rem;
   }
 
+  /**
   .section__subtitle{
     margin-bottom: 4rem;
   }
+  **/
 
   .header{
     top: 0;
