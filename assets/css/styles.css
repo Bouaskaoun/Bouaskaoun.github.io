@@ -1489,3 +1489,7 @@ img {
 .user-info small {
   color: #545d7a;
 }
+
+.portfolio__data{
+  text-align: center;
+}
