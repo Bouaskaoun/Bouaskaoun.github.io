@@ -996,12 +996,12 @@ img {
   color: var(--first-color-lighter);
 }
 
-.footer__social{
+.footer__icon__link{
   font-size: 1.25rem;
   margin-right: var(--mb-1-5);
 }
 
-.footer__social:hover{
+.footer__icon__link:hover{
   color: var(--first-color-lighter);
 }
 
@@ -1015,7 +1015,7 @@ img {
 .footer__title,
 .footer__subtitle,
 .footer__link,
-.footer__social{
+.footer__icon__link{
   color: #fff;
 }
 
@@ -1352,7 +1352,7 @@ img {
     column-gap: 2rem;
   }
 
-  .footer__socials{
+  .footer__icons__links{
     justify-self: flex-end;
   }
 
