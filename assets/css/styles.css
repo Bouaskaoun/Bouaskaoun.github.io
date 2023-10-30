@@ -402,6 +402,13 @@ img {
 }
 
 /*==================== ABOUT ====================*/
+.profile__img{
+  width: 300px;
+  border-radius: 50rem;
+  justify-self: center;
+  align-self: center;
+}
+
 .about__img{
   width: 200px;
   border-radius: .5rem;
@@ -1245,6 +1252,10 @@ img {
 
   .about__container{
     column-gap: 5rem;
+  }
+
+  .profile__img{
+    width: 350px;
   }
 
   .about__img{
